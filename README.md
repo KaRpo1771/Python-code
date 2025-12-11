@@ -1,4 +1,4 @@
-Дегтярев Артем ПО-23-3
+@SuperDuperGoidabot
 ackage            Version
 ------------------ ----------
 aiofiles           24.1.0
